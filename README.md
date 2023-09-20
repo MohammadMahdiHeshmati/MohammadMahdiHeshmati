@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 💬 Ask me about **HTML & CSS, Tailwind, JS, React, Redux, MySQL**
+- 💬 Ask me about **HTML & CSS, Tailwind, JavaScript, React, MySQL**
