@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on **....**
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML & CSS, Tailwind, JavaScript, React, MySQL**
+- 💬 Ask me about **HTML & CSS, Tailwind, JavaScript, React, Next, Js & React Libs**
