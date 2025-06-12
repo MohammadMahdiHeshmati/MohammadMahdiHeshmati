@@ -8,8 +8,6 @@
 
 💬 Ask me about Next.js, React, TypeScript, JavaScript, TailwindCSS, HTML, CSS, and other frontend tools... ✌️
 
-<br />
-
 ## 🚀 Skills:
 <div align="center">
   <!-- HTML -->
@@ -51,8 +49,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=0CC100&background=17EA342C&center=true&vCenter=true&width=500&lines=Front-End+Developer+%F0%9F%94%A5;Software+Engineer+%E2%9C%A8;%5B+NEXT+%7C+REACT+%7C+TS+%7C+TailwindCSS+%5D)](https://git.io/typing-svg)
 
 </div>
-
-<br />
 
 ## 💻 Socials:
 <div align="left">
