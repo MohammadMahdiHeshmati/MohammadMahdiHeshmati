@@ -1,12 +1,12 @@
 <h2 align="left">Hi 👋!</h2>
 
-👨‍💻 My name is Mohammad Mahdi  
+👨‍💻 My name is Mohammad Mahdi 💁
 
-💻 I'm a passionate developer  
+💻 I'm a passionate developer ♥️
 
-🧠 I'm currently learning Software Engineering  
+🧠 I’m currently deepening my expertise in Front-End Development 🌱
 
-💬 Ask me about Next.js, React, TypeScript, JavaScript, TailwindCSS, HTML, CSS, and other frontend tools...
+💬 Ask me about Next.js, React, TypeScript, JavaScript, TailwindCSS, HTML, CSS, and other frontend tools... ✌️
 
 <br />
 
